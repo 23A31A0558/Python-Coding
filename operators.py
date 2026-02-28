@@ -1,7 +1,7 @@
 print(1+1)#addition
 print(2-1)#subtraction
 print(2*2)#multiplication
-print(4/2)#division
+print(4/4)#division
 print(4%3)#remainder
 print(4**2)#power
 print(4//2)#floor division ..(rounds down the nearest value.. return an integer instead of float value)
